@@ -5,7 +5,7 @@ import uuid
 
 image='DatasetGambar'
 
-labels=['Hello','Ya','Tidak','Terima Kasih','I love You','Please','Mantap', 'Yolo','Stepa']
+labels=['Hello','Ya','Tidak','Terima Kasih','I love You','Please','Mantap', 'Yolo','Stepa','goodbye']
 
 number_of_images=5
 
